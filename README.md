@@ -18,9 +18,7 @@ Este projeto nasceu da minha vontade de criar uma rede de apoio entre estudantes
 
 - Python
 - Java
-- MySQL
-- HTML, CSS, JavaScript
-- Git e GitHub
+- Outros
 
 
 ## 📌 Autor
