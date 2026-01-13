@@ -24,8 +24,7 @@ Este projeto nasceu da minha vontade de criar uma rede de apoio entre estudantes
 ## 📌 Autor
 
 Desenvolvido por **ALTI (Aleluia Nhaga Imbali)**  
-📧 Email: altiwise@yahoo.com  
-🔗 GitHub: [github.com/ALTI-dev](https://github.com/ALTI-dev)
+📧 Email: altiwise@yahoo.com   
 
 ---
 
