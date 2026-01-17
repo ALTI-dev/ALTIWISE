@@ -45,17 +45,7 @@ Este projeto está em **fase inicial de desenvolvimento**, sendo construído com
 - ✅ Protótipos de IA (chatbot)
 - 🔄 Estudos de viabilidade técnica
 - 📋 Arquitetura em planeamento
-
----
-
-## 📁 Estrutura do Repositório
-ALTIWISE/
-├── README.md # Este arquivo
-├── prototypes/ # Protótipos e experimentos
-│ └── alti-ia-chatbot/ # Chatbot conversacional
-└── .gitignore # Arquivos ignorados pelo Git
-
-
+- 
 ---
 
 ## 🔧 Tecnologias Previstas
