@@ -54,12 +54,10 @@ O chatbot atual responde a:
 
 ### Executar
 ```bash
-Interação
+python chat_bot.pyInteração
 Digite suas perguntas ou mensagens
 O chatbot responderá baseado no que foi programado
 Use o emoji 👋 para sair
-python chat_bot.py
-
 📚 Contexto de Desenvolvimento
 Este chatbot foi desenvolvido utilizando apenas conhecimentos dos Módulos 1 e 2 do Curso de Python do Professor Gustavo Guanabara (Curso em Vídeo):
 
@@ -100,6 +98,3 @@ Criado com conhecimento dos Módulos 1 e 2 de Python
 ← Voltar ao ALTIWISE
 
 </div> ```
-
- 
-
