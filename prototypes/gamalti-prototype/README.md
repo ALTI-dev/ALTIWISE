@@ -43,7 +43,7 @@ O **GAMALTI** é uma funcionalidade gamificada que transforma emojis em gatilhos
 ## 🎓 Conceitos Aplicados
 
 **Programação:**
-- Estruturas condicionais (`if/elif/else`)
+- Variáveis (Dicionário, Tupla)
 - Listas e manipulação de dados
 - Módulo `random` para escolhas aleatórias
 - Módulo `time` para temporização
